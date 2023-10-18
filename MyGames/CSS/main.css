@@ -1,0 +1,37 @@
+* {
+    font-family: 'L', sans-serif;
+}
+
+.bg-stilo-nav {
+    background: rgb(214, 231, 83);
+}
+
+#navbar-items .navbar-nav {
+    display: flex;   
+    justify-content: center; 
+    width: 100%;
+}
+
+.navbar-brand {
+    max-width: 5em;
+}
+
+.carousel-control-next{
+
+    font-size: 4rem;
+}
+
+.carousel-control-prev{
+
+    font-size: 4rem;
+    font-weight: 700;
+    color: rgb(81, 81, 191);
+}
+
+img{
+    height: 45rem;
+}
+
+header{
+    margin-bottom: 10rem;
+}
